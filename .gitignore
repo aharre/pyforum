@@ -1,0 +1,5 @@
+/build
+/.venv
+/pyforum.egg-info
+/dist
+pyforum/__pycache__
