@@ -11,6 +11,6 @@ pip install pyforum
 ## Paper
 
 We introduce and use FORUM in:
-The News Comment Gap and Algorithmic Agenda Setting in Online Forums _arXiv link soon_
+Böwing F., Gildersleve P. (2024). The News Comment Gap and Algorithmic Agenda Setting in Online Forums. _arXiv preprint [arXiv:2408.07052](https://arxiv.org/abs/2408.07052)_
 
-Associated repo: [commentgap](https://github.com/dornleiten/commentgap)
+Associated project repo: [commentgap](https://github.com/dornleiten/commentgap)
