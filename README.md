@@ -8,6 +8,9 @@ A package that calculates the Feature-Oriented Ranking Utility Metric (FORUM) fo
 pip install pyforum
 ```
 
+## Usage
+Consult [demo.ipynb](https://github.com/pgilders/pyforum/blob/main/demo.ipynb) to see FORUM in action!
+
 ## Paper
 
 We introduce and use FORUM in:
